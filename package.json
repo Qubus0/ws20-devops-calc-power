@@ -1,0 +1,19 @@
+{
+  "name": "ws20-devops-calc-power",
+  "version": "1.0.0",
+  "description": "methematical power operation for https://github.com/dwdab/ws20-devops-calc",
+  "main": "power.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qubus0/ws20-devops-calc-power.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qubus0/ws20-devops-calc-power/issues"
+  },
+  "homepage": "https://github.com/Qubus0/ws20-devops-calc-power#readme"
+}
